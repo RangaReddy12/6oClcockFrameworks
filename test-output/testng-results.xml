@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[5   10]]>
+    </line>
+    <line>
+      <![CDATA[Login Success]]>
+    </line>
+    <line>
+      <![CDATA[Logout Success]]>
+    </line>
+    <line>
+      <![CDATA[Login Success]]>
+    </line>
+    <line>
+      <![CDATA[New Branch with id 202 created Sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[Branch Creation is success]]>
+    </line>
+    <line>
+      <![CDATA[Logout Success]]>
+    </line>
+    <line>
+      <![CDATA[Login Success]]>
+    </line>
+    <line>
+      <![CDATA[Branch updated Sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[Branch updated is success]]>
+    </line>
+    <line>
+      <![CDATA[Logout Success]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="106730" started-at="2020-01-10T14:00:30Z" finished-at="2020-01-10T14:02:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="106730" started-at="2020-01-10T14:00:30Z" finished-at="2020-01-10T14:02:17Z">
+      <class name="DriverFactory.DriverScript">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:DriverFactory.DriverScript@46d56d67]" name="setUp" is-config="true" duration-ms="4950" started-at="2020-01-10T19:30:30Z" finished-at="2020-01-10T19:30:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="startTest()[pri:0, instance:DriverFactory.DriverScript@46d56d67]" name="startTest" duration-ms="101046" started-at="2020-01-10T19:30:35Z" finished-at="2020-01-10T19:32:16Z">
+          <reporter-output>
+            <line>
+              <![CDATA[5   10]]>
+            </line>
+            <line>
+              <![CDATA[Login Success]]>
+            </line>
+            <line>
+              <![CDATA[Logout Success]]>
+            </line>
+            <line>
+              <![CDATA[Login Success]]>
+            </line>
+            <line>
+              <![CDATA[New Branch with id 202 created Sucessfully]]>
+            </line>
+            <line>
+              <![CDATA[Branch Creation is success]]>
+            </line>
+            <line>
+              <![CDATA[Logout Success]]>
+            </line>
+            <line>
+              <![CDATA[Login Success]]>
+            </line>
+            <line>
+              <![CDATA[Branch updated Sucessfully]]>
+            </line>
+            <line>
+              <![CDATA[Branch updated is success]]>
+            </line>
+            <line>
+              <![CDATA[Logout Success]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:DriverFactory.DriverScript@46d56d67]" name="tearDown" is-config="true" duration-ms="701" started-at="2020-01-10T19:32:16Z" finished-at="2020-01-10T19:32:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- DriverFactory.DriverScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
